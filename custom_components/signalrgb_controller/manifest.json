@@ -1,5 +1,5 @@
 {
-    "domain": "signalrgb_controller",
+    "domain": "virtual_light",
     "name": "SignalRGB Controller",
     "documentation": "https://github.com/myde2001/virtual_light",
     "dependencies": [],
