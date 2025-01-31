@@ -1,0 +1,11 @@
+{
+    "name": "SignalRGB Controller",
+    "author": "myde2001",
+    "description": "SignalRGB Controller that does HTTP calls",
+    "version": "1.0.0",
+    "homeassistant": "2023.1.0",
+    "domain": "signalrgb_controller",
+    "documentation": "https://github.com/myde2001/ha_signalrgb_controller",
+    "source": "https://github.com/myde2001/ha_signalrgb_controller",
+    "issue_tracker": "https://github.com/myde2001/ha_signalrgb_controller/issues"
+}  

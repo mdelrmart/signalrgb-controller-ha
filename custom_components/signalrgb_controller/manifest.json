@@ -1,0 +1,11 @@
+{
+    "domain": "signalrgb_controller",
+    "name": "SignalRGB Controller",
+    "documentation": "https://github.com/myde2001/virtual_light",
+    "dependencies": [],
+    "codeowners": ["@myde2001"],
+    "requirements": [],
+    "version": "1.0.0",
+    "config_flow": true
+  }
+  

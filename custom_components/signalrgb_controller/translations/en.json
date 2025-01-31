@@ -1,0 +1,25 @@
+{
+    "config": {
+      "step": {
+        "user": {
+          "title": "Configure SignalRGB Controller",
+          "description": "Enter the connection details for the SignalRGB WEB API.",
+          "data": {
+            "host": "Server Address",
+            "port": "Port",
+            "username": "Username",
+            "password": "Password"
+          }
+        }
+      },
+      "error": {
+        "cannot_connect": "Failed to connect to the server. Please check the details."
+      }
+    },
+    "entity": {
+      "light": {
+        "virtual_light": "SignalRGB"
+      }
+    }
+  }
+  

@@ -1,0 +1,20 @@
+set_effect:
+  name: Set Effect
+  description: Apply an effect with optional parameters.
+  fields:
+    effect:
+      required: true
+      example: "Rainbow Rise"
+      selector:
+        select:
+          options:
+            - "Solid Color"
+            - "Rainbow Rise"
+            - "Color Cycle"
+            - "Fireworks"
+            - "Strobe"
+    params:
+      required: false
+      example: '{"speed": 50, "reverse": true}'
+      selector:
+        object:
